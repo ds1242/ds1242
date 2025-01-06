@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I currently work at The University of Tennessee Libraries
-- 🔭 I’m currently working on the Libraries mainsite, a library metadata search tool, and a product barcode scanner 
+- 🔭 I’m working on the Libraries mainsite, a library metadata search tool, and a product barcode scanner 
 - 🖥️ Currently learning Go
