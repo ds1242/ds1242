@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm David Shaw
 
 <!--
 **ds1242/ds1242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I currently work at The University of Tennessee Libraries
+- 🔭 I’m currently working on the Libraries mainsite, a library metadata search tool, and a product barcode scanner 
+- 🖥️ Currently learning Go
