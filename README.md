@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - I currently work at The University of Tennessee Libraries
 - 🔭 I’m working on the Libraries mainsite, a library metadata search tool, and a product barcode scanner 
 - 🖥️ Currently learning Go
-- 🏛️ @dshaw12 for my work Github profile
+- 🏛️ @dshaw11 for my work Github profile
